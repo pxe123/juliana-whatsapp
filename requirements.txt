@@ -1,0 +1,6 @@
+flask
+openai
+requests
+python-dotenv
+gunicorn
+supabase==2.27.2
